@@ -1,0 +1,8 @@
+implemented a File Integrity Checker using Python and Streamlit that allows users to monitor changes in their files. It calculates the hash values of files in a specified directory and saves them to a reference file (JSON format). The checker compares the stored hashes with the current file hashes, detecting if any files have been modified, deleted, or added. The dashboard interface in Streamlit provides two main functionalities: saving file hashes and checking file integrity. Upon checking, the results are displayed in a table format, showing the status of each file (whether it's unchanged, modified, deleted, or added). The project provides a simple yet effective way to monitor the integrity of files and ensure their security.
+
+
+this is my project implementation
+
+
+
+

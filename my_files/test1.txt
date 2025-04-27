@@ -1,0 +1,17 @@
+A **File Integrity Checker** is a tool used to ensure that files on a system have not been altered, deleted, or corrupted. It works by creating a unique fingerprint or hash (using algorithms like SHA-256 or MD5) for each file at a certain point in time. This fingerprint (or hash) is stored in a secure location, usually in a database or a file.
+
+Later, the integrity checker can compare the current hash of each file with the stored hash to verify whether the file has been modified. If the file’s content has changed, its hash will differ from the original, alerting the user to the potential modification, corruption, or tampering of that file.
+
+### Key features:
+- **Hash Generation**: It computes hash values (using algorithms like SHA-256, MD5) of files when they are initially created or stored.
+- **Integrity Check**: Periodically checks the current hash against the original hash to detect any changes or alterations.
+- **Alerts**: Notifies the user if any files have been modified, deleted, or added.
+- **Security**: Prevents unauthorized tampering of critical files, making it useful for ensuring the integrity of system files, sensitive data, and software installations.
+
+### Common Use Cases:
+- **File System Security**: Ensures that system files, configuration files, and critical application files are not tampered with by malware or unauthorized users.
+- **Backup Verification**: Verifies that files have not been altered during backup and restore processes.
+- **Software Integrity**: Checks if the files of installed software packages or updates have been modified or corrupted. 
+
+In summary, a file integrity checker helps maintain the security and reliability of files by detecting unauthorized changes.
+

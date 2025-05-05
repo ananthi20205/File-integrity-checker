@@ -12,6 +12,8 @@ DURATION:    4 WEEKS
 
 MENTOR:    NEELA SANTOSH
 
+OUTPUT:    ![Image](https://github.com/user-attachments/assets/af2fd8db-ae41-4622-ba8c-a007e58849b2)
+
 Task 1: File Integrity Checker – DESCRIPTION
 
 In today’s digital world, ensuring that files remain unchanged and unaltered is essential for maintaining system security and protecting sensitive data. 

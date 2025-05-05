@@ -1,10 +1,10 @@
 {
     "my_files\\test1.txt": {
-        "hash": "67bae3640df99af7a0855b67358d98184534a54cc7c1f308af949bced3194e4e",
-        "timestamp": "2025-04-27 11:53:01"
+        "hash": "a0352c395d76ed6a3837f78086da44f1718722714adb4b97d24991cd28d9825e",
+        "timestamp": "2025-05-05 11:42:33"
     },
     "my_files\\test2.txt": {
-        "hash": "ec5ebc5cb752da8ebc20385e9690d56381a83bdf6a860af46a640f4d1599476e",
-        "timestamp": "2025-04-27 11:53:01"
+        "hash": "ec9ed5a7739ae99d3ab4b7206419c3ff0c3a34053252e6c3c1022e5bbc20ef2d",
+        "timestamp": "2025-05-05 11:42:33"
     }
 }
